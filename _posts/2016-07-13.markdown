@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Wiesen Viaduct"
+date:   2016-07-13 16:08:16 +0200
+categories: jekyll update
+---
+The Wiesen Viaduct is a single-track railway viaduct (concrete blocks with dimension stone coverage) which spans the Landwasser southwest of the hamlet of Wiesen, Switzerland. Designed by Henning Friedrich, then the chief engineer of the Rhaetian Railway, it was built between 1906 and 1909 by the contractor G. Marasi (Westermann & Cie, Zürich) under the supervision of P. Salaz and Hans Studer (RhB). The Rhaetian Railway still owns and uses the viaduct today for regular service with 29 passenger trains per day. An important element of the Davos–Filisur railway, the viaduct is 88.9 metres (292 ft) high, 210 metres (690 ft) long, and has a main span of 55 metres (180 ft). In 1926, the viaduct was the inspiration for Ernst Ludwig Kirchner's painting Brücke bei Wiesen.
+
